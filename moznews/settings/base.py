@@ -161,3 +161,5 @@ LOGGING = {
         },
     }
 }
+
+NEWS_EPOCH = 1356066000  # Unix timestamp of 2012-12-21 00:00:00
